@@ -98,7 +98,7 @@ The models are evaluated using:
 
 ### Best Model
 
-***Logistic Regression*** achieved the highest test accuracy of 96.49% among the three models used in this project.
+***Logistic Regression*** achieved the highest test accuracy of ***96.49%*** among the three models used in this project.
 
 #
 
