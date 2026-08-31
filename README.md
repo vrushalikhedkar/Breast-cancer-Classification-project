@@ -100,5 +100,11 @@ The models are evaluated using:
 
 **Logistic Regression** achieved the highest test accuracy of 96.49% among the three models used in this project.
 
+#
+
+### 🎯 Project Goal
+
+The goal of this project is to build and compare Machine Learning classification models and identify the model that performs best at distinguishing **malignant and benign breast cancer cases.**
+
 
 
