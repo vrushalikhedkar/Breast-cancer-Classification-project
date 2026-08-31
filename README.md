@@ -88,4 +88,16 @@ The models are evaluated using:
 
 #
 
+🏆 Model Comparison
+
+Model | Accuracy |
+Logistic Regression | 96.49% | 
+KNN | 95.61% |
+Decision Tree | 91.23% |
+
+### Best Model
+
+**Logistic Regression** achieved the highest test accuracy of 96.49% among the three models used in this project.
+
+
 
