@@ -90,10 +90,11 @@ The models are evaluated using:
 
 🏆 Model Comparison
 
-Model | Accuracy |
-Logistic Regression | 96.49% | 
-KNN | 95.61% |
-Decision Tree | 91.23% |
+| Model | Accuracy |
+| --- | ---: |
+| Logistic Regression | 96.49% | 
+| KNN | 95.61% |
+| Decision Tree | 91.23% |
 
 ### Best Model
 
