@@ -62,13 +62,13 @@ Main visualizations include:
 
 Three classification algorithms are used:
 
-**1. Logistic Regression**
+**1. Logistic Regression**<br/ >
 Used as the primary classification model for predicting whether a case is malignant or benign.
 
-**2. K-Nearest Neighbors (KNN)**
+**2. K-Nearest Neighbors (KNN)**<br/ >
 Classifies a sample based on the classes of its nearest neighboring samples.
 
-**3. Decision Tree**
+**3. Decision Tree**<br/ >
 Uses a tree-based structure to make classification decisions based on feature values.
 
 #
